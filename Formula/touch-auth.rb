@@ -1,8 +1,8 @@
 class TouchAuth < Formula
   desc "Askpass helper for local macOS authentication"
   homepage "https://github.com/zeyugao/touch-auth"
-  url "https://github.com/zeyugao/touch-auth/releases/download/1.2/touch-auth.tar.gz"
-  sha256 "6018e8fbf92d42a76eea9293016f5520852556581cefdf88fd409f98bae73edc"
+  url "https://github.com/zeyugao/touch-auth/releases/download/1.3.0/touch-auth.tar.gz"
+  sha256 "661dd477b19b027011ff3a0e3c8f51bc0072e172220d697e863746ca4e0b57f6"
 
   def install
     bin.install "#{name}"

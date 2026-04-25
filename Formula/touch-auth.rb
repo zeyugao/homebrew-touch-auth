@@ -1,7 +1,7 @@
 class TouchAuth < Formula
-  desc "The touch-auth util for MacOS"
-  homepage "https://github.com/theseal/touch-auth/"
-  url "https://github.com/elsagranger/touch-auth/releases/download/1.2/touch-auth.tar.gz"
+  desc "Askpass helper for local macOS authentication"
+  homepage "https://github.com/zeyugao/touch-auth"
+  url "https://github.com/zeyugao/touch-auth/releases/download/1.2/touch-auth.tar.gz"
   sha256 "6018e8fbf92d42a76eea9293016f5520852556581cefdf88fd409f98bae73edc"
 
   def install
